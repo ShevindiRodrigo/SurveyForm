@@ -1,2 +1,2 @@
 # SurveyForm
-Begineer project on html and css
+Beginner project on html and css
